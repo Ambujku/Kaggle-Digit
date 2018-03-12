@@ -13,3 +13,5 @@ Dataset should be placed in same folder.
 then run the script.
 
 Sample output csv file has been uploaded with score: 0.94
+
+Latest solution is with KNN algorith with score 0.96
