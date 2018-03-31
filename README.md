@@ -3,7 +3,6 @@
 This solution is for Kaggle Digit Recogniser problem.
 
 The requirements for this code to run is:
-* Interactive Python IDE (Jupyter, Spyder etc)
 * Pandas
 * Numpy
 * Scikit learn
